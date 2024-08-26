@@ -1,0 +1,22 @@
+
+
+
+
+
+.navsidebar {
+    min-height: max-content;
+    width: 30%;
+    text-align: left;
+    background-color: rgba(196, 196, 212, 0.544);
+}
+
+li {
+    list-style: none;
+}
+.sidebar-list {
+    margin-left: 1rem;
+}
+.Link {
+    text-decoration: none;
+    color: rgb(43, 37, 37);
+}
